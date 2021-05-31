@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KyriakidisSMS</string>
+    <string name="Posotita">Ποσότητα</string>
+    <string name="Eidos">Είδος</string>
+    <string name="Add">Πρόσθηκη</string>
+    <string name="Remove">Αφαίρεση</string>
+    <string name="Apostoleas">Αποστολέας</string>
+    <string name="Komistra">Κόμιστρα</string>
+    <string name="Antikatavoli">Αντικαταβολή</string>
+    <string name="Katathesi">Κατάθεση σε τράπεζα</string>
+    <string name="Paralavi">Παραλαβή από γραφείο</string>
+    <string name="Rantevou">Ραντεβού παράδοσης</string>
+    <string name="Minima">Μήνυμα</string>
+
+    <string-array name="LogariasmoiArray">
+        <item>062</item>
+        <item>385</item>
+        <item>608</item>
+    </string-array>
+
+    <string name="Logariasmos062">\nΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ\nIBAN: GR93 0172 2140 0052 1401 7570 062\nΔΙΚΑΙΟΥΧΟΣ: ΚΥΡΙΑΚΙΔΗΣ ΧΡΗΣΤΟΣ  ΥΙΟΙ ΕΠΕ</string>
+    <string name="Logariasmos385">\nΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ\nIBAN: GR20 0171 7150 0067 1511 2850 385\nΔIKAIOYXOΣ: KYPIAKIΔHΣ XΡΗΣΤΟΣ  YIOI EΠE</string>
+    <string name="Logariasmos608">\nΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ\nIBAN: GR98 0172 0470 0050 4700 1826 608\nΔΙΚΑΙΟΥΧΟΣ: ΚΥΡΙΑΚΙΔΗΣ ΗΛΙΑΣ ΤΟΥ ΧΡΗΣΤΟΥ</string>
+
+    <string-array name="MetaforeisArray">
+        <item>Γιώργος</item>
+        <item>Ίβο</item>
+        <item>Νίκος</item>
+    </string-array>
+</resources>
